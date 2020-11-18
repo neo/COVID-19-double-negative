@@ -17,7 +17,82 @@ And this repo is an attampt to hopefully make it slightly easier by sharing and 
 
 ### 模版
 
+```md
+## [检测日期 + "成功"/"失败"]
+
+[":satisfied: 成功" 或 ":sob: 失败"]
+
+[作者]：["亲身经历" 或 出处链接]
+
+#### ["核酸"/"抗体"]
+
+- [[检测机构名称地点]]([最好加上预约和其他信息的链接])
+- [取样检测的日期时间] 检测
+- [收到结果的日期时间] 报告
+- [可附加其他重点如排队时间和检测费用等]
+- ...
+
+#### ["核酸"/"抗体"]
+
+...
+
+#### 全程（可选）
+
+<details>
+<summary>[标题]</summary>
+详细过程
+...
+</details>
+```
+
 ### 例子
+
+```md
+# YYZ 多伦多
+
+## 2020-11-12 成功
+
+:satisfied: 成功
+
+一只干脆面: https://www.xiaohongshu.com/discovery/item/5f9d969b0000000001002c4f
+
+#### 核酸
+
+- [UHN Toronto Western](https://www.uhn.ca/Covid19/Pages/COVID19_assessment_centre.aspx)
+- 2020-11-12 11:20 检测
+- 2020-11-12 23:31 报告
+
+#### 核酸
+
+- [Mount Sinai Hospital](https://www.sinaihealth.ca/covid19/covid-19-assessment-centre/)
+- 2020-11-12 11:45 检测
+- 报告时间未注明
+- 排队时间久
+
+#### 抗体
+
+- [Dynacare Edward St.](<https://www.dynacare.ca/specialpages/secondarynav/find-a-location/toronto-(5).aspx>>)
+- 2020-11-12 13:10 检测
+- 2020-11-13 10:00 报告
+
+#### 全程
+
+<details>
+<summary>11.14 ✈️ 多伦多-上海·滑铁卢双检测</summary>
+行叭，政策改了孩子哭了。
+
+——♦️11.13 更新 ♦️——
+
+纯粹是因为半夜热醒了……一看 Western 已经出报告了。23 点 31 出的，很好很快人不多，推荐一波。
+
+Dynacare 今早上 10 点左右出的结果。
+
+目前暂时是这样，后续会更新的 👀
+
+各位小伙伴不要太过惊慌，有进展我一定会发出来的，希望大家都可以顺利回国
+
+</details>
+```
 
 ## 分享贡献
 
